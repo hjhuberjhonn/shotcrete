@@ -1,0 +1,7 @@
+body{font-family:Arial;background:#111;color:white;padding:20px}
+.app{max-width:420px;margin:auto;background:#292929;padding:20px;border-radius:18px}
+h1{text-align:center;color:#f39c12}
+input,button{width:100%;padding:14px;margin-top:10px;font-size:17px;border-radius:10px;box-sizing:border-box}
+button{background:#e67e22;color:white;border:0;font-weight:bold}
+button+button{background:#555}
+#resultado{margin-top:20px;background:#000;padding:15px;border-radius:10px;line-height:1.8}
